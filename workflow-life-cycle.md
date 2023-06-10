@@ -3,8 +3,7 @@
 
 ## Sequences
 Typical development workflow will follow the following sequence:
-
-	- Requirement gathering
+  - Requirement gathering
   - Participation in system and interface design with Architects and UX Team
   - Lead SPRINT Planning (Define SPRINT goals)
   - Refining backlog with Product Owners and Team
