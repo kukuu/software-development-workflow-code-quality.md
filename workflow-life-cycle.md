@@ -31,3 +31,5 @@ Typical development workflow will follow the following sequence:
   - No configurations will sit outside the features that are developed. They will be contained in the same repository. This will be to avoid platform configuration changes that can potentially result in code and applications breaking. Use Docker, Puppet and Vagrant to support the application build
   - Have documentation and dashboard available and easily accessible to the development team and stakeholders
   -  Ensure there is consistent and constant communication in the team with actions and setup agenda.
+## Related Articles:
+- https://github.com/kukuu/software-dev-life-cycle/blob/main/lifecycle-software-development.md
